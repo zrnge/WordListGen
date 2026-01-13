@@ -20,16 +20,16 @@ WordListGen is an advanced, customizable password wordlist generator written in 
 # Installation
 
 Clone the repository and ensure the script is executable:
-``
+```
 git clone https://github.com/zrnge/WordListGen.git
 cd WordListGen
 chmod +x WordListGen.py
-``
+```
 # Usage
 
-``
+```
 ./WordListGen.py --name <NAME> [OPTIONS]
-``
+```
 
 | Argument       | Description                                |
 | -------------- | ------------------------------------------ |
@@ -44,7 +44,7 @@ chmod +x WordListGen.py
 
 # Examples
 
-``
+```
 ./wordlistgen.py \
   --name Job \
   --job Analyst \
@@ -53,7 +53,7 @@ chmod +x WordListGen.py
   --numbers \
   --symbols \
   --output passwords.txt
-  ``
+  ```
 
   # Disclaimer
 
