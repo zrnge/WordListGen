@@ -46,9 +46,9 @@ chmod +x WordListGen.py
 
 ``
 ./wordlistgen.py \
-  --name Ayub \
+  --name Job \
   --job Analyst \
-  --birthday 120398 \
+  --birthday 12032003 \
   --leet \
   --numbers \
   --symbols \
