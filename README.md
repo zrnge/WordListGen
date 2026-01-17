@@ -1,4 +1,9 @@
 # 📜 WordListGen
+![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Security](https://img.shields.io/badge/use-defensive%20security-orange.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 WordListGen is an advanced, customizable password wordlist generator written in Python. It is designed for security professionals, penetration testers, and researchers who need to generate targeted password lists based on personal attributes and common transformation techniques.
 
 # Features
